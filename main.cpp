@@ -18,5 +18,4 @@ int main() {
         std::cout<<a[i]<<std::endl;
     }
 
-    return 0;
 }
